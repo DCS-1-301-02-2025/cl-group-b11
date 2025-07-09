@@ -6,6 +6,6 @@
 digraph {
     edge [dir=both]
 
-八王子国際キャンパス -> 学生寮 [label=　徒歩]
+八王子国際キャンパス -> 学生寮  [label=　徒歩]
 }
 ```
